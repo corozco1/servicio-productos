@@ -1,9 +1,0 @@
-server:
-  port: 8001
-spring:
-  application:
-    name: servicio-productos
-  data:
-    mongodb:
-      database: Store
-      port: 27017
